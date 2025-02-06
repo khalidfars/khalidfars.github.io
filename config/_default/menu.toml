@@ -8,9 +8,18 @@
 #newtab = true
 
 [[social]]
+identifier = "email"
+name = "​Email"  # Copy and paste a zero-width space before "Email"
+url = "mailto:farskhalid02@gmail.com" 
+
+[social.params]
+icon = "email"
+
+
+[[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/khalidfars"
 
 [social.params]
 icon = "brand-github"
