@@ -15,10 +15,18 @@ url = "https://github.com/CaiJimmy/hugo-theme-stack"
 [social.params]
 icon = "brand-github"
 
+#[[social]]
+#identifier = "twitter"
+#name = "Twitter"
+#url = "https://twitter.com"
+
+#[social.params]
+#icon = "brand-twitter"
+
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/khalidfars"
 
 [social.params]
-icon = "brand-twitter"
+icon = "linkedin"
