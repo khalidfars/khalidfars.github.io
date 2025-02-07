@@ -1,8 +1,9 @@
 ---
 title: "About Me"
-description: "Learn more about me and my work."
+description: "Get to know me and the experiences that shape my work."
 slug: "about"
 toc: false
+readingTime: false
 menu:
     main:
         weight: 3  # Adjust the weight to control the menu order
@@ -10,7 +11,7 @@ menu:
             icon: user
 ---
 
-## Hi, I'm Khalid Fars 👋
+## Hi, I'm Khalid FARS!
 
 I specialize in **industrial and logistics engineering**, **3D design**, and **coding**, with a focus on building **optimization tools**, **predictive models**, and **automation solutions**. 
 
@@ -35,7 +36,7 @@ You can download my resume by clicking [here](/resume/CV_KhalidFARS.pdf).
 ### **Contact Me**
 Feel free to reach out for collaborations, opportunities, or just to say hello! I’m always open to connecting with like-minded professionals.
 
-- **Email:** [farskhalid02@gmail.com](mailto:farskhalid02@gmail.com)
+[Email](mailto:farskhalid02@gmail.com)
 
 ---
 
@@ -44,9 +45,3 @@ Let’s stay connected! Here’s where you can find me:
 
 [LinkedIn](https://www.linkedin.com/in/khalidfars)  
 [GitHub](https://github.com/khalidfars)  
-[Behance](https://www.behance.net/knightartgallery)
-
----
-
-### **Let’s Collaborate!**
-I’m always open to new challenges and opportunities. If you have a project in mind or just want to connect, don’t hesitate to reach out. Let’s create something amazing together!
