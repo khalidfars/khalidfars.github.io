@@ -20,7 +20,7 @@ weight: 1
 
 In today's fast-paced global economy, businesses are under constant pressure to ensure products reach customers efficiently, affordably, and reliably. Two critical concepts that facilitate this process are logistics and supply chain management (SCM). Although the terms are often used interchangeably, they represent distinct yet interconnected functions that govern the flow of goods, from raw materials to final delivery.
 
-![Logistics and Supply Chain](images\pic1.jpg)
+![Logistics and Supply Chain](pic1.jpg)
 
 To understand this distinction, consider the example of a smartphone manufacturer. Sourcing raw materials, assembling components, and ensuring timely deliveries to retailers all fall under the umbrella of supply chain management. However, specific tasks such as warehousing, inventory control, and last-mile delivery are categorized under logistics.
 
@@ -34,7 +34,7 @@ To truly grasp the distinction between logistics and supply chain management, it
 
 ### A. What is Logistics?
 
-![Logistics](images\pic2.jpg)
+![Logistics](pic2.jpg)
 
 Logistics refers to the detailed coordination and management of resources---such as goods, materials, and information---as they move through a supply chain. Its primary goal is to optimize the storage, transportation, and delivery of products to meet customer demands efficiently and cost-effectively.
 
@@ -53,7 +53,7 @@ Logistics originated in military operations, where efficient management of suppl
 
 ### B. What is Supply Chain Management (SCM)?
 
-![Supply Chain Management](images\pic3.png)
+![Supply Chain Management](pic3.png)
 
 Supply chain management is a broader process that encompasses the entire journey of a product, from sourcing raw materials to delivering the final product to consumers. It integrates various business functions---including procurement, manufacturing, logistics, and customer service---into a cohesive and efficient system.
 
@@ -75,7 +75,7 @@ Supply chain management is a broader process that encompasses the entire journey
 
 ### C. How Logistics and Supply Chain Management Interconnect
 
-![Interconnection](images\pic4.png)
+![Interconnection](pic4.png)
 
 While logistics focuses on the movement and storage of goods, SCM ensures that the entire product journey---from sourcing to final delivery---is optimized.
 
@@ -135,7 +135,7 @@ Logistics and supply chain management must collaborate seamlessly for a business
 
 **Example in E-Commerce**:
 
-![E-Commerce Example](images\pic5.jpg)
+![E-Commerce Example](pic5.jpg)
 
 - **SCM**: A company like Amazon sources products from global suppliers, negotiates contracts, and coordinates manufacturing.
 - **Logistics**: Amazon's logistics team handles warehousing, shipping, and last-mile delivery to customers.
@@ -144,7 +144,7 @@ Logistics and supply chain management must collaborate seamlessly for a business
 
 ### E. The Role of Technology in Both Fields
 
-![Technology in Logistics and SCM](images\pic6.jpeg)
+![Technology in Logistics and SCM](pic6.jpeg)
 
 Advancements in artificial intelligence (AI), the Internet of Things (IoT), and automation are revolutionizing logistics and supply chain management. Some of the key technologies include:
 
