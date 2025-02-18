@@ -11,7 +11,7 @@ tags:
     - Logistics
     - Supply Chain Management
     - Business Operations
-weight: 1
+weight: 2
 ---
 
 # LOGISTICS VS. SUPPLY CHAIN: UNDERSTANDING THE CRITICAL DIFFERENCES AND INTERCONNECTIONS
