@@ -11,7 +11,6 @@ tags:
     - Purchasing
     - Procurement
     - Supply Chain Management
-weight: 1
 ---
 
 # Purchasing vs. Procurement: Key Differences and Strategic Importance
