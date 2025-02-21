@@ -16,7 +16,7 @@ tags:
 
 # Optimizing Inventory Management: Just-in-Time vs. Just-in-Case Strategies
 
-## **1. Introduction**
+## **Introduction**
 Effective inventory management is critical for businesses seeking to balance cost efficiency with operational reliability. Two dominant strategies govern inventory control: **Just-in-Time (JIT)** and **Just-in-Case (JIC)**. These approaches offer contrasting philosophies in stock management, each with unique benefits and challenges.
 
 ![Just-in-Time (JIT) and Just-in-Case (JIC)](pic2.jpg)
@@ -29,7 +29,7 @@ This article explores the principles, advantages, and limitations of JIT and JIC
 
 ---
 
-## **2. Understanding Just-in-Time (JIT) and Just-in-Case (JIC)**
+## **Understanding Just-in-Time (JIT) and Just-in-Case (JIC)**
 
 ### **What is Just-in-Time (JIT)?**
 
@@ -64,7 +64,7 @@ Industries with unpredictable demand, such as **healthcare, retail, and food pro
 
 ---
 
-## **3. Pros and Cons of Each Strategy**
+## **Pros and Cons of Each Strategy**
 
 ### **Advantages and Disadvantages of JIT**
 
@@ -98,7 +98,7 @@ Industries with unpredictable demand, such as **healthcare, retail, and food pro
 
 ---
 
-## **4. Choosing the Right Strategy: JIT vs. JIC**
+## **Choosing the Right Strategy: JIT vs. JIC**
 Selecting the most suitable inventory strategy depends on multiple factors, including industry type, supply chain stability, and business priorities.
 
 ![JIT vs. JIC](pic5.jpeg)
@@ -128,7 +128,7 @@ Ultimately, the choice between JIT and JIC should align with a company’s **ris
 
 ---
 
-## **5. Conclusion**
+## **Conclusion**
 Both JIT and JIC offer distinct advantages and challenges, making the selection of an inventory strategy highly dependent on business objectives and supply chain conditions.
 
 ![JIT vs. JIC](pic1.png)
