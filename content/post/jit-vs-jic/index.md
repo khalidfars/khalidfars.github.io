@@ -2,7 +2,7 @@
 title: Optimizing Inventory Management Just-in-Time vs. Just-in-Case Strategies
 description: Explore the principles, advantages, and limitations of Just-in-Time (JIT) and Just-in-Case (JIC) inventory strategies.
 slug: jit-vs-jic-inventory-management
-date: 2025-02-21
+date: 2025-02-20
 image: cover.png
 categories:
     - Business
@@ -68,13 +68,13 @@ Industries with unpredictable demand, such as **healthcare, retail, and food pro
 
 ### **Advantages and Disadvantages of JIT**
 
-✅ **Pros:**
+ **Pros:**
 - Lower inventory holding costs, freeing up capital for investment.
 - Reduced waste and risk of obsolescence.
 - Improved efficiency through streamlined processes and supplier collaboration.
 - Encourages continuous improvement and demand-driven production.
 
-❌ **Cons:**
+ **Cons:**
 - High dependency on suppliers, making it vulnerable to disruptions.
 - Requires precise demand forecasting to avoid stockouts.
 - Limited flexibility in handling sudden demand surges.
@@ -84,13 +84,13 @@ Industries with unpredictable demand, such as **healthcare, retail, and food pro
 
 ### **Advantages and Disadvantages of JIC**
 
-✅ **Pros:**
+ **Pros:**
 - Ensures product availability during demand fluctuations.
 - Reduces the risk of supply chain disruptions impacting operations.
 - Provides flexibility to handle unexpected orders and seasonal demand shifts.
 - Beneficial for industries with long lead times or volatile supply chains.
 
-❌ **Cons:**
+ **Cons:**
 - Higher storage costs due to large stockpiles.
 - Risk of inventory obsolescence or spoilage in certain industries.
 - More working capital tied up in stock, affecting cash flow.
