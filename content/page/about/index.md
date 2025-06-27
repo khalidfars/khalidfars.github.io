@@ -1,47 +1,58 @@
 ---
 title: "About Me"
-description: "Get to know me and the experiences that shape my work."
+description: "Learn more about my background, skills, and projects."
 slug: "about"
 toc: false
 readingTime: false
 menu:
-    main:
-        weight: 3  # Adjust the weight to control the menu order
-        params:
-            icon: user
+  main:
+    weight: 3
+    params:
+      icon: user
 ---
 
-## Hi, I'm Khalid FARS!
+## Hi, I'm Khalid FARS
 
-I specialize in **industrial and logistics engineering**, **3D design**, and **coding**, with a focus on building **optimization tools**, **predictive models**, and **automation solutions**. 
+I’m an **Industrial and Logistics Engineer** with a strong interest in **optimization**, **digital tools**, and **problem-solving**. My work combines **engineering logic**, **data-driven thinking**, and a passion for **design and automation**.
 
-On this site, I share **projects, articles, and insights** on logistics, programming, and design, showcasing my passion for innovation and problem-solving.
+Here, I share **projects, insights, and tools** related to logistics, programming, and process improvement—reflecting my curiosity, creativity, and drive for innovation.
 
 ---
 
 ### **About Me**
-With a robust background in **Industrial and Logistics Engineering**, I actively seek opportunities to leverage and expand my skill set. My experience spans diverse industries, including **coding**, **design**, and **engineering**, complemented by a solid foundation in **Electrical and Mechanical Engineering**. Over the past five years, I have developed expertise in **3D design** and successfully ventured into **app development**, demonstrating my ability to deliver results on complex projects—both independently and as part of a collaborative team.
 
-Renowned for my **discipline**, **strong work ethic**, and **problem-solving mindset**, I thrive on tackling challenging tasks and am committed to continuous growth and professional development. My passion for **learning** and **innovation** drives me to explore new opportunities and expand my expertise.
+Graduated from the **Faculty of Sciences and Techniques of Settat**, I bring a solid foundation in **industrial systems**, supported by early training in **electrical and mechanical engineering**. My multidisciplinary background allows me to connect the dots between **operations**, **technology**, and **efficiency**.
 
-I am eager to bring my **dynamic skill set** and **innovative approach** to new projects. Let’s connect to discuss how I can contribute to your team and help achieve your goals.
+Over the past few years, I’ve built practical experience in:
+
+- **Production & Maintenance Systems**
+- **Lean Manufacturing & Process Optimization**
+- **Data Analysis (Excel/VBA, Python, Power BI)**
+- **3D Design & Application Development**
+
+Whether working independently or with a team, I’m known for being **disciplined**, **curious**, and **solution-oriented**. I enjoy designing smart tools, automating workflows, and finding better ways to solve complex problems.
+
+This site reflects my journey—a space to document ideas, share useful resources, and stay connected with professionals across industries.
 
 ---
 
 ### **Download My Resume**
+
 You can download my resume by clicking [here](/resume/CV_KhalidFARS.pdf).
 
 ---
 
 ### **Contact Me**
-Feel free to reach out for collaborations, opportunities, or just to say hello! I’m always open to connecting with like-minded professionals.
+
+Feel free to reach out if you'd like to collaborate, discuss a project, or just connect:
 
 [Email](mailto:farskhalid02@gmail.com)
 
 ---
 
 ### **Connect With Me**
-Let’s stay connected! Here’s where you can find me:
+
+Find me on:
 
 [LinkedIn](https://www.linkedin.com/in/khalidfars)  
-[GitHub](https://github.com/khalidfars)  
+[GitHub](https://github.com/khalidfars)
