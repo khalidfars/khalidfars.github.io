@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}" dir="{{ default `ltr` .Language.LanguageDirection }}">
     <head>
+        {{ template "_internal/google_analytics.html" . }}
         {{- partial "head/head.html" . -}}
         {{- block "head" . -}}{{ end }}
     </head>
