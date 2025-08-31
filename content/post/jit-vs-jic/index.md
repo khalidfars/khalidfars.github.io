@@ -1,5 +1,5 @@
 ---
-title: Optimizing Inventory Management Just-in-Time vs. Just-in-Case Strategies
+title: "Optimizing Inventory Management: Just-in-Time vs. Just-in-Case Strategies"
 description: Explore the principles, advantages, and limitations of Just-in-Time (JIT) and Just-in-Case (JIC) inventory strategies.
 slug: jit-vs-jic-inventory-management
 date: 2025-02-20
