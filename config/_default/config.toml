@@ -19,4 +19,4 @@ pagerSize = 5
 
 [services]
   [services.googleAnalytics]
-    googleAnalytics = 'G-H58J33D2RZ'
+    googleAnalytics = "G-H58J33D2RZ"
