@@ -21,6 +21,8 @@ languages:
             sidebar:
                 subtitle: Example description
 
+# Google Analytics 4 Configuration
+googleAnalytics: G-H58J33D2RZ
 
 services:
     # Change it to your Disqus shortname before using
