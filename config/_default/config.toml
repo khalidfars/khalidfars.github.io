@@ -3,6 +3,9 @@ baseurl = "https://khalidfars.github.io"
 languageCode = "en-us"
 title = "KHALID FARS"
 
+# Google Analytics 4 Configuration
+googleAnalytics = "G-H58J33D2RZ"
+
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "en"
@@ -16,3 +19,7 @@ disqusShortname = ""
 
 [pagination]
 pagerSize = 5
+
+[services]
+[services.googleAnalytics]
+ID = "G-H58J33D2RZ"
